@@ -1,0 +1,18 @@
+﻿<Window x:Class="Asynkbazi.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Asynkbazi"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ListView x:Name="Listv" Margin="0,59,150,0">
+        </ListView>
+        <Button Content="Открыть"  Margin="658,59,65,339"  Height="36" Width="77" Click="Button_Click"/>
+        <TextBox x:Name="FileNameTextBox" HorizontalAlignment="Left" Margin="671,10,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Button  Content="Создать файл" HorizontalAlignment="Left" Margin="658,134,0,0" VerticalAlignment="Top" Height="35" Width="77" Click="Button_Click_1"/>
+        <Button Content="Создать текстовик" HorizontalAlignment="Left" Margin="658,197,0,0" VerticalAlignment="Top" Height="32" Width="77"/>
+
+    </Grid>
+</Window>

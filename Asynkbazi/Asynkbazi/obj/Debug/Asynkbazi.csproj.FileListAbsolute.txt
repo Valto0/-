@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\Asynkbazi\Asynkbazi\bin\Debug\Asynkbazi.exe.config
+C:\Users\Student\source\repos\Asynkbazi\Asynkbazi\bin\Debug\Asynkbazi.exe
+C:\Users\Student\source\repos\Asynkbazi\Asynkbazi\bin\Debug\Asynkbazi.pdb
+C:\Users\Student\source\repos\Asynkbazi\Asynkbazi\obj\Debug\Asynkbazi.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Asynkbazi\Asynkbazi\obj\Debug\MainWindow.g.cs
+C:\Users\Student\source\repos\Asynkbazi\Asynkbazi\obj\Debug\App.g.cs
+C:\Users\Student\source\repos\Asynkbazi\Asynkbazi\obj\Debug\Asynkbazi_MarkupCompile.cache
+C:\Users\Student\source\repos\Asynkbazi\Asynkbazi\obj\Debug\Asynkbazi_MarkupCompile.lref
+C:\Users\Student\source\repos\Asynkbazi\Asynkbazi\obj\Debug\MainWindow.baml
+C:\Users\Student\source\repos\Asynkbazi\Asynkbazi\obj\Debug\Asynkbazi.g.resources
+C:\Users\Student\source\repos\Asynkbazi\Asynkbazi\obj\Debug\Asynkbazi.Properties.Resources.resources
+C:\Users\Student\source\repos\Asynkbazi\Asynkbazi\obj\Debug\Asynkbazi.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\Asynkbazi\Asynkbazi\obj\Debug\Asynkbazi.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Asynkbazi\Asynkbazi\obj\Debug\Asynkbazi.exe
+C:\Users\Student\source\repos\Asynkbazi\Asynkbazi\obj\Debug\Asynkbazi.pdb
